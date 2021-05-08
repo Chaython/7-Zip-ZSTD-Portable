@@ -1,6 +1,6 @@
 ﻿;!@Lang2@!UTF-8!
-; 20.02 : 2020-12-04 : Patriccollu di Santa Maria è Sichè (Latest Update)
-;  9.20 : 2010-12-12 : Patriccollu di Santa Maria è Sichè (Creation)
+; 19.00 : 2019-04-27 : Patriccollu di Santa Maria è Sichè (Latest Update)
+;  9.20 : 2010-12-12 : Patriccollu di Santa Maria è Sichè (Creation)
 ;
 ;
 ;
@@ -28,14 +28,14 @@ Aiutu
 &Cuntinuà
 440
 Iè per &tutti
-Innò per t&utti
+In&nò per t&utti
 Piantà
 Rilancià
 Tacca di &fondu
-In &primu pianu
+Tacca di &pettu
 &Pausa
 In pausa
-Site sicuru di vulè annullà ?
+Site sicuru di vulè annullà ?
 500
 &Schedariu
 &Mudificazione
@@ -49,7 +49,7 @@ Apre den&tru
 Apre f&ora
 &Fighjà
 &Mudificà
-&Rinuminà
+&Rinumà
 &Cupià ver di…
 &Dispiazzà  ver di…
 S&quassà
@@ -62,18 +62,18 @@ Paragunà e sfarenze
 Creà un cartulare
 Creà un schedariu
 &Esce
-Liame
+Leia
 Flussi a&lternativi
 600
 &Tuttu selezziunà
 Ùn selezziunà &nunda
 &Arritrusà a selezzione
 &Selezziunà…
-Ùn &micca selezziunà…
+Ùn selezziunà &micca…
 Selezziunà da u tipu
-Ùn selezziunà da u tipu
+Ùn Selezziunà da u tipu
 700
-&Icone maiò
+Icone &maiò
 Icone &chjuche
 &Lista
 &Detaglii
@@ -84,7 +84,7 @@ Icone &chjuche
 &Barre d’attrezzi
 Apre u cartulare principale
 Livellu &superiore
-Cronolugia di i cartulari…
+Crunulugia di i cartulari…
 &Attualizà
 Attualisazione autumatica
 750
@@ -153,7 +153,7 @@ Nome cortu
 Appiecazione d’urigine
 Dimensione di settore
 Modu
-Liame simbolicu
+Leia simbulica
 Sbagliu
 Dimensione tutale
 Spaziu liberu
@@ -188,26 +188,26 @@ Pagina di codice
 
 Dimensione di a coda
 Dimensione di u mozzicone incurpuratu
-Liame
-Liame solidu
+Leia
+Leia solida
 iNodu
 
 Lettura sola
 2100
 Ozzioni
 Lingua
-Lingua :
+Lingua :
 Editore
-&Mudificà :
-&Paragunà e sfarenze :
+&Editore :
+Paragunà e sfarenze :
 2200
 Sistema
-Assucià 7-zip cù :
+Assucià 7-zip cù :
 Tutti l’utilizatori
 2301
 Integrà 7-zip à u listinu cuntestuale
 Listinu cuntestuale in cascata
-Elementi di u listinu cuntestuale :
+Elementi di u listinu cuntestuale :
 Icone in u listinu cuntestuale
 2320
 <Cartulare>
@@ -224,15 +224,15 @@ Cumprime ver di {0} è mandà da eMail
 2400
 Cartulari
 Cartulare di &travagliu
-Cartulare &timpurariu di u sistema
+Cartulare timpurariu di &sistema
 &Currente
-&Specificatu :
+&Specificatu :
 Impiegà solu per i dischi amuvibili
 Specificate un cartulare per i schedarii timpurarii d’archiviu.
 2500
 Preferenze
 Affissà l’elementu « .. »
-Affissà e vere icone di i schedarii
+Affissà l’icone reale di i schedarii
 Affissà u listinu di u sistema
 Selezziunà a linea &sana
 Affissà e linee &quadrittate
@@ -249,10 +249,10 @@ U sistema ùn pò micca attribuisce a quantità richiesta di memoria
 U cartulare « {0} » ùn pò micca esse creatu
 L’azzioni di mudificazione ùn sò micca accettate per st’archiviu.
 U schedariu « {0} » ùn pò micca esse apertu cum’è un archiviu
-L’archiviu cifratu « {0} » ùn pò micca esse apertu. Parolla d’entrata falsa ?
+L’archiviu cifratu « {0} » ùn pò micca esse apertu. Parolla d’entrata falsa ?
 Stu tipu d’archiviu ùn hè micca accettatu
 U schedariu {0} esiste dighjà
-U schedariu « {0} » hè statu mudificatu.\nVulete mudificallu in l’archiviu ?
+U schedariu « {0} » hè statu mudificatu.\nVulete mudificallu in l’archiviu ?
 Ùn si pò micca mudificà u schedariu\n« {0} »
 Ùn si pò lancià l’editore.
 U schedariu cuntene forse un virus (u so nome cuntene spazii numerosi).
@@ -260,7 +260,7 @@ St’azzione ùn pò micca fassi à partesi d’un cartulare cù un nome di chja
 Ci vole à selezziunà un schedariu
 Ci vole à selezziunà unu o parechji schedarii
 Troppu elementi
-Ùn si pò micca apre u schedariu cum’è un archiviu {0}
+Ùn hè micca pussibule d’apre u schedariu cum’è un archiviu {0}
 U schedariu hè apertu cum’è un archiviu {0}
 L’archiviu hè apertu cù un spiazzamentu
 3300
@@ -278,24 +278,24 @@ Ripruduzzione
 Rimballasgiu
 Tralasciamentu
 Squassatura
-Creazione d’una intestatura
+Creazione di l’intestatura
 3400
 Estrae
-E&strae ver di :
+E&strae ver di :
 Sciglite un cartulare per l’estrazzione di i schedarii.
 3410
-Modu di chjassu :
+Modu di chjassu :
 Nomi sani di chjassu
 Alcunu nome di chjassu
 Nomi assuluti di chjassu
 Nomi relativi di chjassu
 3420
-Modu di rimpiazzamentu :
+Modu di rimpiazzamentu :
 Cunfirmà nanzu di rimpiazzà
 Rimpiazzà senza dumandà
 Tralascià i schedarii esistenti
-Rinuminà autumaticamente
-Rinuminà autumat. i schedarii esistenti
+Rinumà autumaticamente
+Rinumà autumat. i schedarii esistenti
 3430
 Toglie a duplicazione di u cartulare principale
 Risturà a sicurità di i schedarii
@@ -303,17 +303,17 @@ Risturà a sicurità di i schedarii
 Cunfirmà u rimpiazzamentu di schedariu
 U cartulare di destinazione cuntene dighjà un schedariu cù stu nome.
 Vulete rimpiazzà u schedariu esistentu
-cù quellu ?
+cù quessu ?
 {0} ottetti
-Rinuminà &autumaticamente
+Rinumà &autumaticamente
 3700
 Metoda di cumpressione micca accettatu per « {0} ».
 Sbagliu di dati in « {0} ». U schedariu hè dannighjatu.
 Fiascu di l’ispezzione CRC per u schedariu « {0} ». U schedariu hè dannighjatu.
-Sbagliu di dati in u schedariu cifratu « {0} ». Parolla d’entrata falsa ?
-Fiascu di l’ispezzione CRC per u schedariu cifratu « {0} ». Parolla d’entrata falsa ?
+Sbagliu di dati in u schedariu cifratu « {0} ». Parolla d’entrata falsa ?
+Fiascu di l’ispezzione CRC per u schedariu cifratu « {0} ». Parolla d’entrata falsa ?
 3710
-Parolla d’entrata falsa ?
+Parolla d’entrata falsa ?
 3721
 Metoda di compressione micca accettatu
 Sbagliu di dati
@@ -333,42 +333,42 @@ Principiu di l’archiviu micca confirmatu
 Funzione micca accettata
 3800
 Scrivite a parolla d’entrata
-Scrivite a parolla d’entrata :
-Scrivite torna a parolla d’entrata :
+Scrivite a parolla d’entrata :
+Scrivite torna a parolla d’entrata :
 &Affissà a parolla d’entrata
 E parolle d’entrata sò sfarente
-Impiegate solu : lettere senza aletta, cifri è segni particulari (!, #, $, …) per a parolla d’entrata
+Impiegate solu : lettere senza aletta, cifri è segni particulari (!, #, $, …) per a parolla d’entrata
 A parolla d’entrata hè troppu longa
 Parolla d’entrata
 3900
-Tempu passatu :
-Tempu rimanentu :
-Dimensione tutale :
-Vitezza :
-Trattatu :
-% di cumpressione :
-Sbaglii :
-Archivii :
+Tempu passatu :
+Tempu rimanentu :
+Dimensione tutale :
+Vitezza :
+Trattatu :
+% di cumpressione :
+Sbaglii :
+Archivii :
 4000
 Aghjunghje à l’archiviu
-&Archiviu :
-Modu di m&udificazione :
-&Furmatu d’archiviu :
-&Livellu di cumpressione :
-&Metoda di cumpressione :
-&Dimensione di u dizziunariu :
-Dimensione di &e parolle :
-Dimensione di u bloccu solidu :
-Contu di flussi CPU :
-&Parametri :
+&Archiviu :
+Modu di m&udificazione :
+&Furmatu d’archiviu :
+&Livellu di cumpressione :
+&Metoda di cumpressione :
+&Dimensione di u dizziunariu :
+Dimensione di &e parolle :
+Dimensione di u bloccu solidu :
+Numeru di flussi CPU :
+&Parametri :
 Ozzioni
 Creà un archiviu SF&X
 Cumprime schedarii sparti
 Cifratura
-Metoda di cifratura :
+Metoda di cifratura :
 Cifrà i &nomi di schedariu
-Memoria impiegata da a cumpressione :
-Memoria impiegata da a scumpressione :
+Memoria impiegata da a cumpressione :
+Memoria impiegata da a scumpressione :
 Squassà i schedarii dopu à a cumpressione
 4040
 Cunservà i liami simbolichi
@@ -395,8 +395,8 @@ Solidu
 6000
 Cupià
 Dispiazzà
-Cupià ver di :
-Dispiazzà ver di :
+Cupià ver di :
+Dispiazzà ver di :
 Copia…
 Dispiazzamentu…
 Cambiamentu di nome…
@@ -409,30 +409,30 @@ Site sicuru di vulè cupià u(i) schedariu(i) ver di l’archiviu
 Cunfirmà a squassatura di u schedariu
 Cunfirmà a squassatura di u cartulare
 Cunfirmà a squassatura di schedarii multiplice
-Site sicuru di vulè squassà « {0} » ?
-Site sicuru di vulè squassà u cartulare « {0} » è tuttu u so cuntenutu ?
-Site sicuru di vulè squassà sti {0} elementi ?
+Site sicuru di vulè squassà « {0} » ?
+Site sicuru di vulè squassà u cartulare « {0} » è tuttu u so cuntenutu ?
+Site sicuru di vulè squassà sti {0} elementi ?
 Squassatura…
 Sbagliu durante a squassatura di schedariu o di cartulare
 U sistema ùn pò micca mette à a Rumenzula un schedariu cù u nome di chjassu cusì longu
 6300
 Creà un cartulare
 Creà un schedariu
-Nome di u cartulare :
-Nome di u schedariu :
+Nome di u cartulare :
+Nome di u schedariu :
 Novu cartulare
 Novu schedariu
 Sbagliu durante a creazione di u cartulare
 Sbagliu durante a creazione di u schedariu
 6400
 Cummentu
-&Cummentu :
+&Cummentu :
 Selezziunà
 Ùn selezziunà
-Filtru :
+Filtru :
 6600
 Pruprietà
-Cronolugia di i cartulari
+Crunulugia di i cartulari
 Messaghji di diagnosticu
 Messaghju
 7100
@@ -450,46 +450,46 @@ Squassà
 Infurmazione
 7300
 Sparte u schedariu
-&Sparte in :
-Sparte in &vulumi, ottetti :
+&Sparte in :
+Sparte in &vulumi, ottetti :
 Spartimentu…
 Cunfirmà u spartimentu
-Site sicuru di vulè sparte u schedariu in {0} vulumi ?
+Site sicuru di vulè sparte u schedariu in {0} vulumi ?
 A dimensione di u vulume deve esse più chjuca chì u schedariu d’urigine
 Dimensione di vulume incurretta
-Dimensione di vulume specificata : {0} ottetti.\nsite sicuru di vulè taglià l’archiviu in tali vulumi ?
+Dimensione di vulume specificata : {0} ottetti.\nsite sicuru di vulè taglià l’archiviu in tali vulumi ?
 7400
 Unisce i schedarii
-&Unisce in :
+&Unisce in :
 Unione…
 Selezziunà solu a prima parte di l’archiviu spartutu
-Ùn si trova nisuna parte d’archiviu spartutu
-Ùn si trova micca più d’una parte d’archiviu spartutu
+Ùn si trova alcuna parte d’archiviu spartutu
+Ùn si trova chì una sola parte d’archiviu spartutu
 7500
 Calculu di a somma di cuntrollu…
 Infurmazione nant’à a somma di cuntrollu
-Somma di cuntrollu CRC per i dati :
-Somma di cuntrollu CRC per i dati è i nomi :
+Somma di cuntrollu CRC per i dati :
+Somma di cuntrollu CRC per i dati è i nomi :
 7600
 Sperimentu di pussibilità
-Memoria impiegata :
+Memoria impiegata :
 Cumpressione
 Scumpressione
-Stima
+Valutazione
 Valutazione tutale
 Attuale
 Risultante
 Impiegu CPU
-Stima/Impiegu
-Passagi :
+Valutazione / Impiegu
+Passagi :
 7700
-Liame
-Liame
-Liame d’origine :
-Liame di destinazione :
+Leia
+Leia
+Leia d’urigine :
+Leia di destinazione :
 7710
-Tipu di liame
-Liame solidu
-Liame simbolicu di schedariu
-Liame simbolicu di cartulare
+Tipu di leia
+Leia solida
+Leia simbolica di schedariu
+Leia simbolica di cartulare
 Unione di cartulare

@@ -2,7 +2,7 @@
 ;       : tomazek
 ;  4.55 : miles
 ;
-; 20.00 : 2020-02-07 : Jadran Rudec
+; 18.05 : 2019-02-13 : Jadran Rudec
 ;
 ;
 ;
@@ -29,17 +29,17 @@ Po&moč
 440
 Da za &vse
 Ne za v&se
-Ustavi
-Znova zaženi
-Ozad&je
-&Ospredje
+Zaustavi
+Ponovno zaženi
+Ozadje
+Ospredje
 Premor
 Na premoru
 Ali ste prepričani, da želite preklicati?
 500
 Datoteka
 Urejanje
-&Prikaz
+&Pogled
 Priljubljene
 Orodja
 Pomoč
@@ -103,8 +103,8 @@ Vse&bina pomoči...
 &Vizitka 7-Zip...
 1003
 Pot
-Ime
-Končnica
+M:\Downloads\7-Zip 1806\en.txt
+Pripona
 Mapa
 Velikost
 Stisnjena velikost
@@ -155,7 +155,7 @@ Velikost sektorja
 Način
 Simbolna povezava
 Napaka
-Skupna velikost
+Dkupna velikost
 Prost prostor
 Velikost gruče
 Oznaka
@@ -247,7 +247,7 @@ Sistem ne more dodeliti potrebne količine pomnilnika
 Ni napak
 {0} izbranih predmetov
 Mape '{0}' ni mogoče ustvariti
-Posodabljanja za ta arhiv niso podprta.
+Posodabljanja za ta arhiv niso podprte.
 Datoteke '{0}' ni mogoče odpreti kot arhiv
 Šifriranega arhiva '{0}' ni mogoče odpreti. Napačno geslo?
 Nepodprta vrsta arhiva
@@ -318,10 +318,10 @@ Napačno geslo?
 Nepodprta metoda stiskanja
 Napaka podatkov
 CRC ni uspel
-Nedostopni podatki
+Podatki, ki niso na voljo
 Nepričakovan konec podatkov
-Obstaja nekaj podatkov po koncu podatkov koristnih podatkov
-Ni arhiv
+Obstaja nekaj podatkov po koncu podatkov koristnega tovora
+Ni arhivsko
 Napaka v glavah
 Napačno geslo
 3763
