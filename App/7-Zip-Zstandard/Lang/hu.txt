@@ -204,7 +204,7 @@ Elem megnyitása egyszeres kattintással
 &Nagy memória haszálata
 2900
 A 7-Zip névjegye
-A 7-Zip ingyenes szoftver. Ha elnyerte a tetszését, s mégis szeretné támogatni a további fejlesztését, regisztrálja 20 USD áron, fizethet hitelkártyával vagy más módon.
+A 7-Zip ingyenes szoftver.
 3000
 A rendszer nem tudja lefoglalni a szükséges memóriát
 Az archívum hibamentes
