@@ -7,16 +7,16 @@ ${Segment.OnInit}
 	System::Call kernel32::IsWow64Process(is,*i.r0)
 	${If} $0 == 0
 		StrCpy $Bits 32
-		Rename "$EXEDIR\App\7-Zip-Zstandard\Lang" "$EXEDIR\App\7-Zip-Zstandard\Lang"
+		Rename "$EXEDIR\App\7-Zip64\Lang" "$EXEDIR\App\7-Zip-Zstandard\Lang"
 	${Else}
 		StrCpy $Bits 64
-		Rename "$EXEDIR\App\7-Zip-Zstandard\Lang" "$EXEDIR\App\7-Zip-Zstandard64\Lang"
+		Rename "$EXEDIR\App\7-Zip-Zstandard\Lang" "$EXEDIR\App\7-Zip64\Lang"
 	${EndIf}
 !macroend
 
 ${SegmentInit}
     ${If} $Bits = 64
-        ${SetEnvironmentVariablesPath} FullAppDir "$EXEDIR\App\7-Zip-Zstandard"
+        ${SetEnvironmentVariablesPath} FullAppDir "$EXEDIR\App\7-Zip64"
 	${Else}
         ${SetEnvironmentVariablesPath} FullAppDir "$EXEDIR\App\7-Zip-Zstandard"
 	${EndIf}

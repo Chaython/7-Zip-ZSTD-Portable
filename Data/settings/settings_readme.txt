@@ -1,1 +1,1 @@
-Your 7-Zip-Zstandard settings registry files will go here
+Your 7-zip settings registry files will go here
