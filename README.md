@@ -1,5 +1,6 @@
 # 7-Zip-ZSTD-Portable
 7-Zip in 24 is adding zstd support so I will be archiving this.
+
 7-Zip with additional algorithms, made portable. Windows x64 Sources: https://github.com/mcmilk/7-Zip-zstd + https://portableapps.com/apps/utilities/7-zip_portable &amp; some needed modifications.
 
 
