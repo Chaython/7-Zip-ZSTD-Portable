@@ -4,6 +4,6 @@
 
 This works as described, but if you plan to install a file archiver I reccomend:
 
-NanaZip now: https://github.com/M2Team/NanaZip It's another 7zip fork, with zstandard and native windows 11 context menu integration.
+NanaZip: It's another 7zip fork, with zstandard and native Windows 11 context menu integration. https://github.com/M2Team/NanaZip
 
-Peazip is a completely diferent FOSS archiver, multiplatofrm, with even more formats supported. But sometimes I have issues, with it not inputing/outputing consistently. It's best on Linux. https://github.com/peazip/PeaZip/releases/
+Peazip: a completely diferent FOSS archiver, multiplatofrm, with even more formats supported. But sometimes I have issues, with it not inputing/outputing consistently. It's best on Linux. https://github.com/peazip/PeaZip/releases/
